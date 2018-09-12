@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url("images/bg.jpeg");
+    color: white;
+    border-radius: 0 !important;
+}
+.bg-muted {
+    background-color: rgb(245, 245, 245);
+}
