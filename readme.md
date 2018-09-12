@@ -1,3 +1,3 @@
-#Practica con Bootstrap
+# Practica con Bootstrap
 
-Para acceder a esta página, haz click [aquí.](https://github.com/valegutierrez/bootstrap-practice)
+Para acceder a esta página, haz click [aquí.](https://valegutierrez.github.io/bootstrap-practice/)
